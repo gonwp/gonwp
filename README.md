@@ -25,19 +25,15 @@
 
 ---
 
-## 🛠 &nbsp;Proyectos
+## Popular Projects
 
-### **Sistema de Gestión para Parking** (Junio - Noviembre 2024)
-Desarrollé un sistema de gestión para un estacionamiento, integrando funcionalidades como:
-- Administración de usuarios y autenticación mediante login.
-- Gestión de servicios (estacionamiento, lavado de vehículos, alineación y balanceo).
-- Uso de **C#** y **MariaDB** para la implementación de módulos de control de disponibilidad, pagos y seguimiento.
+<a href="https://github.com/gosegovia/AioParking">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gosegovia&repo=AioParking&theme=onedark" />
+</a>  
 
-### **Gestor de Series** (Noviembre - Diciembre 2024)
-Creé una aplicación en **C#** para organizar series y películas, con características como:
-- Registro de episodios vistos, pendientes y planificados.
-- Base de datos en **Supabase**.
-- Autenticación con Google para una experiencia de usuario personalizada.
+<a href="https://github.com/gosegovia/WiseSeries">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gosegovia&repo=WiseSeries&theme=onedark" />
+</a>  
 
 ---
 
