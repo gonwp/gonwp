@@ -25,15 +25,21 @@
 
 ---
 
-## Popular Projects
+## 🚀 Popular Projects
 
-<a href="https://github.com/gosegovia/AioParking">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gosegovia&repo=AioParking&theme=onedark" />
-</a>
+<div align="center">
+  <h3>[AioParking](https://github.com/gosegovia/AioParking)</h3>
+  <p>Sistema de gestión para estacionamientos desarrollado en C#.</p>
+  <img src="https://via.placeholder.com/400x200?text=AioParking+Screenshot" alt="AioParking Screenshot" width="400"/>
+</div>
 
-<a href="https://github.com/gosegovia/WiseSeries">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gosegovia&repo=WiseSeries&theme=onedark" />
-</a>  
+---
+
+<div align="center">
+  <h3>[WiseSeries](https://github.com/gosegovia/WiseSeries)</h3>
+  <p>Aplicación para gestionar series y películas, con autenticación de Google.</p>
+  <img src="https://via.placeholder.com/400x200?text=WiseSeries+Screenshot" alt="WiseSeries Screenshot" width="400"/>
+</div>
 
 ---
 
