@@ -1,9 +1,10 @@
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<p align='center'>
+<h1 align="center"> Hola, soy Gonzalo Segovia! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<p align="center">
+  🎓 **Técnico en Desarrollo y Soporte Informático** | 💻 **Desarrollador de Software Junior**
 </p>
 
-<p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Data+Scientist;I'm+a+Computer+Science+engineer" /></a>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Bienvenido+a+mi+perfil+de+GitHub!;Soy+Gonzalo+Segovia;Me+apasiona+el+desarrollo+de+software" /></a>
 </p>
 
 <p align="center">
@@ -27,19 +28,19 @@
 
 ## 🚀 Popular Projects
 
-<div align="center">
-  <h3>[AioParking](https://github.com/gosegovia/AioParking)</h3>
-  <p>Sistema de gestión para estacionamientos desarrollado en C#.</p>
-  <img src="https://via.placeholder.com/400x200?text=AioParking+Screenshot" alt="AioParking Screenshot" width="400"/>
-</div>
+### [AioParking](https://github.com/gosegovia/AioParking)
+🔹 **Descripción**: Sistema de gestión para estacionamientos desarrollado en C#.  
+🔹 **Características principales**:
+- Administración de usuarios y autenticación segura.
+- Gestión de servicios como lavado de vehículos y balanceo.
+- Base de datos en MariaDB.
 
----
-
-<div align="center">
-  <h3>[WiseSeries](https://github.com/gosegovia/WiseSeries)</h3>
-  <p>Aplicación para gestionar series y películas, con autenticación de Google.</p>
-  <img src="https://via.placeholder.com/400x200?text=WiseSeries+Screenshot" alt="WiseSeries Screenshot" width="400"/>
-</div>
+### [WiseSeries](https://github.com/gosegovia/WiseSeries)
+🔹 **Descripción**: Aplicación para gestionar series y películas.  
+🔹 **Características principales**:
+- Registro de episodios vistos, pendientes y planificados.
+- Autenticación de Google.
+- Almacenamiento de datos en Supabase.
 
 ---
 
@@ -63,7 +64,7 @@
 
 ## :link: &nbsp;Conecta Conmigo
 
-<p>
+<p align="center">
 <a href="https://linkedin.com/in/gonzalo-segovia-dev">
   <img src="https://img.shields.io/badge/-Gonzalo%20Segovia-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
 </a>
@@ -74,6 +75,5 @@
 
 ---
 
-Crédito: [Gonzalo Segovia](https://github.com/gosegovia) 
-<br>
-Última actualización: 29/12/2024
+_Crédito: [Gonzalo Segovia](https://github.com/gosegovia)_  
+_Última actualización: 29/12/2024_
