@@ -27,19 +27,15 @@
 
 ## Popular Projects
 
+## Popular Projects
+
 <a href="https://github.com/gosegovia/AioParking">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gosegovia&repo=AioParking&theme=onedark" />
 </a>  
-<p>
-  **AioParking** es un sistema de gestión para estacionamientos desarrollado en C#. Permite gestionar usuarios, pagos y servicios como lavado de vehículos, alineación y balanceo. Incluye autenticación segura y manejo de bases de datos con MariaDB.
-</p>
 
 <a href="https://github.com/gosegovia/WiseSeries">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gosegovia&repo=WiseSeries&theme=onedark" />
 </a>  
-<p>
-  **WiseSeries** es una aplicación en C# para gestionar series y películas. Incluye funcionalidades como registro de episodios vistos y planificados, autenticación con Google, y almacenamiento de datos en Supabase.
-</p>
 
 ---
 
