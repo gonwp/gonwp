@@ -28,8 +28,8 @@
 ## Popular Projects
 
 <a href="https://github.com/gosegovia/AioParking">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gosegovia&repo=AioParking&theme=onedark" />
-</a>  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gosegovia&repo=AioParking&theme=onedark&token=TU_TOKEN" />
+</a>
 
 <a href="https://github.com/gosegovia/WiseSeries">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gosegovia&repo=WiseSeries&theme=onedark" />
@@ -57,7 +57,7 @@
 
 ## :link: &nbsp;Conecta Conmigo
 
-<p align="center">
+<p>
 <a href="https://linkedin.com/in/gonzalo-segovia-dev">
   <img src="https://img.shields.io/badge/-Gonzalo%20Segovia-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
 </a>
@@ -68,5 +68,6 @@
 
 ---
 
-Crédito: [Gonzalo Segovia](https://github.com/gosegovia)
+Crédito: [Gonzalo Segovia](https://github.com/gosegovia) 
+<br>
 Última actualización: 29/12/2024
