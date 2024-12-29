@@ -27,11 +27,9 @@
 
 ## Popular Projects
 
-## Popular Projects
-
 <a href="https://github.com/gosegovia/AioParking">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gosegovia&repo=AioParking&theme=onedark" />
-</a>  
+</a>
 
 <a href="https://github.com/gosegovia/WiseSeries">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gosegovia&repo=WiseSeries&theme=onedark" />
