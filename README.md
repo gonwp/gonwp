@@ -1,6 +1,10 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/gist/Pepyn0/99b1635ffc5c8e325bdcdd93115f09f9/raw/22c367b789fc8fabb9608e44133eddb3c3c432ce/github-header-image.svg" alt="Card header"/>
-</div>
+<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<p align='center'>
+</p>
+
+<p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Data+Scientist;I'm+a+Computer+Science+engineer" /></a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gosegovia&color=blueviolet" alt="Profile views" />
@@ -68,5 +72,5 @@ Creé una aplicación en **C#** para organizar series y películas, con caracter
 
 ---
 
-_Crédito: [Gonzalo Segovia](https://github.com/gosegovia)
-_Última actualización: 29/12/2024
+Crédito: [Gonzalo Segovia](https://github.com/gosegovia)
+Última actualización: 29/12/2024
