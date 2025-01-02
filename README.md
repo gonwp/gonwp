@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=gosegovia&color=blueviolet" alt="Profile views" />
   &nbsp;
   <a href="https://github.com/gonwp?tab=followers">
-    <img src="https://img.shields.io/github/followers/gosegovia?style=social" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/gonwp?style=social" alt="Followers" />
   </a>
 </p>
 
